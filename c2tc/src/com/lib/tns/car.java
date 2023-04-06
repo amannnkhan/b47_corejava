@@ -2,7 +2,7 @@ package com.lib.tns;
 
 public class car {
 	int model;//data members
-	String color;
+	String color = "blue";
 	int reg = 233;
 	int amount =100000;
 	void forward() {// member functions
